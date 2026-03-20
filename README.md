@@ -1,4 +1,5 @@
-# 👋 Hola, soy Luis Ángel Manzano Cruz
+<hr>
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Luis Ángel Manzano Cruz </h1>
 
 Soy estudiante de Tecnologías de la Información y me interesa mucho el mundo de los datos, porque me gusta entender qué hay detrás de los números y cómo se pueden usar para tomar mejores decisiones.
 
