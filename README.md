@@ -28,4 +28,4 @@ Como estudiante de la Licenciatura en Tecnologías de la Información en FACPYA 
 
 ---
 📫 **¿Conectamos?**
-[LinkedIn](https://www.linkedin.com/in/luiscruzmanzano/) | [Correo](luiscruz.data@gmail.com) | [Portafolio](https://github.com/LuisAngelManzano)
+[LinkedIn](https://www.linkedin.com/in/luiscruzmanzano/) | [Correo](mailto:luiscruz.data@gmail.com) | [Portafolio](https://github.com/LuisAngelManzano)
