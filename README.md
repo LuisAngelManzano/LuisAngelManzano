@@ -1,63 +1,31 @@
-<hr>
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Luis Ángel Manzano Cruz </h1>
+# 👋 Hola, soy Luis Angel 
 
-Soy estudiante de Tecnologías de la Información y me interesa mucho el mundo de los datos, porque me gusta entender qué hay detrás de los números y cómo se pueden usar para tomar mejores decisiones.
+Soy un desarrollador y analista de datos apasionado por transformar información cruda en decisiones estratégicas y construir las aplicaciones que hacen esto posible. 
 
-Vengo de experiencia en retail, donde trabajé directamente con ventas, inventarios e indicadores clave del negocio. Esto me permitió entender cómo los datos impactan en la operación y tomar decisiones más informadas.
+Como estudiante de la Licenciatura en Tecnologías de la Información en FACPYA (UANL), he cultivado un perfil híbrido: disfruto tanto sumergirme en la extracción y limpieza de datos como arquitectar soluciones de software de extremo a extremo. 
 
-A partir de eso, comencé a formarme de manera autodidacta en herramientas como Excel, Power BI y SQL, desarrollando proyectos enfocados en análisis de datos para fortalecer mis habilidades.
+## 🚀 Mi Enfoque Técnico
 
----
+### 📊 Análisis e Ingeniería de Datos
+* **Herramientas:** Python, Power BI.
+* **Bases de Datos:** SQL Server, SQLite.
+* **Enfoque:** Diseño de pipelines ETL, limpieza de datos complejos e Inteligencia de Negocios.
 
-## 🧠 Sobre mí
+### 💻 Desarrollo de Software
+* **Backend:** C#, .NET, Web API.
+* **Frontend:** Angular, HTML5, CSS3, JavaScript.
+* **Entorno y Herramientas:** Visual Studio Code, Git, GitHub.
+* **Enfoque:** Construcción de APIs escalables, arquitectura relacional y desarrollo full-stack.
 
-- 📊 He trabajado con indicadores de ventas, inventarios y operación en retail
-- 📈 Me interesa el análisis de datos, los dashboards y la toma de decisiones con información real
-- 💻 Tengo bases en C# y SQL Server
-- 🛠️ Estoy reforzando mis habilidades en Excel, Power BI y SQL
-- 🌱 Me gusta aprender de forma constante y seguir mejorando con cada proyecto
+## 🌱 Actualmente estoy...
+* Desarrollando proyectos que integran bases de datos relacionales robustas con aplicaciones web interactivas.
+* Perfeccionando el diseño de Web APIs en C# y su integración con interfaces modernas en Angular.
+* Preparándome para el cierre de mi carrera universitaria y buscando retos que unan el mundo de los datos con el desarrollo de software.
 
----
-
-## 🛠️ Herramientas que estoy usando
-
-- Excel
-- Power BI
-- SQL Server
-- Python (básico)
-- C#
-
----
-
-## 📊 Proyectos destacados
-
-- 🔹 Dashboard de ventas en Power BI
-- 🔹 Análisis de datos en SQL
-- 🔹 Sistema de punto de venta en C# + SQL Server
+## ⚡ Fuera del código...
+* Encuentro el equilibrio perfecto entre diseñar bases de datos, entrenar calistenia y rodar en mis patines freeskate.
+* Disfruto la estrategia en todas sus formas, ya sea resolviendo un bug complejo o en una buena partida de RPG.
 
 ---
-
-## 📫 Contacto
-
-- 📧 luiscruz.data@gmail.com
-- 💼 LinkedIn: linkedin.com/in/luiscruzmanzano
-
----
-
-## 🚀 Lo que busco
-
-Seguir creciendo profesionalmente, aprender de proyectos reales y aportar valor con análisis de datos, ideas claras y ganas de mejorar cada día.
-<!--
-**LuisAngelManzano/LuisAngelManzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **¿Conectamos?**
+[LinkedIn](#) | [Correo](#) | [Portafolio](#)
