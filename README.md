@@ -1,8 +1,5 @@
 # 👋 Hola, soy Luis Angel 
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=LuisAngelManzano alt="profile views"-/>
-<p/>
 
 Soy un desarrollador y analista de datos apasionado por transformar información cruda en decisiones estratégicas y construir las aplicaciones que hacen esto posible. 
 
@@ -33,3 +30,7 @@ Como estudiante de la Licenciatura en Tecnologías de la Información en FACPYA 
 ---
 📫 **¿Conectamos?**
 [LinkedIn](https://www.linkedin.com/in/luiscruzmanzano/) | [Correo](mailto:luiscruz.data@gmail.com) | [Portafolio](https://github.com/LuisAngelManzano)
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=LuisAngelManzano&color=blue alt="profile views"/>
+<p/>
