@@ -49,11 +49,11 @@ He cultivado un perfil híbrido: disfruto tanto sumergirme en la extracción y l
 -->
 
 <div align="center">
-  <a href="https://github.com/LuisAngelManzano/PIA-PROYECTOS">
+  <a href="">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=nombre-del-repo-datos&theme=transparent&hide_border=false&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400" alt="Proyecto de Datos" />
   </a>
-  <a href="https://github.com/tu-usuario/nombre-del-repo-django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=nombre-del-repo-django&theme=transparent&hide_border=false&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400" alt="Proyecto Django" />
+  <a href="https://github.com/LuisAngelManzano/PIA-PROYECTOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAngelManzano&repo=PIA-PROYECTOS&theme=transparent&hide_border=false&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400" alt="Proyecto Django" />
   </a>
 </div>
 
