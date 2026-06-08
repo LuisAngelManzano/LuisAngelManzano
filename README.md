@@ -49,7 +49,7 @@ He cultivado un perfil híbrido: disfruto tanto sumergirme en la extracción y l
 -->
 
 <div align="center">
-  <a href="https://github.com/LuisAngelManzano/PIA-PROYECTO">
+  <a href="https://github.com/LuisAngelManzano/PIA-PROYECTOS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=nombre-del-repo-datos&theme=transparent&hide_border=false&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400" alt="Proyecto de Datos" />
   </a>
   <a href="https://github.com/tu-usuario/nombre-del-repo-django">
@@ -68,7 +68,7 @@ He cultivado un perfil híbrido: disfruto tanto sumergirme en la extracción y l
   <a href="https://linkedin.com/in/luiscruzmanzano">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://tu-portafolio.github.io">
+  <a href="https://github.com/LuisAngelManzano">
     <img src="https://img.shields.io/badge/Portafolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portafolio" />
   </a>
 </div>
