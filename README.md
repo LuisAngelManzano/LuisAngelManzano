@@ -32,5 +32,5 @@ Como estudiante de la Licenciatura en Tecnologías de la Información en FACPYA 
 [LinkedIn](https://www.linkedin.com/in/luiscruzmanzano/) | [Correo](mailto:luiscruz.data@gmail.com) | [Portafolio](https://github.com/LuisAngelManzano)
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=LuisAngelManzano&color=blue alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=LuisAngelManzano&color=blue" alt="profile views"/>
 <p/>
