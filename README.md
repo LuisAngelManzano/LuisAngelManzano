@@ -49,7 +49,7 @@ He cultivado un perfil híbrido: disfruto tanto sumergirme en la extracción y l
 -->
 
 <div align="center">
-  <a href="https://github.com/tu-usuario/nombre-del-repo-datos">
+  <a href="https://github.com/LuisAngelManzano/PIA-PROYECTO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=nombre-del-repo-datos&theme=transparent&hide_border=false&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400" alt="Proyecto de Datos" />
   </a>
   <a href="https://github.com/tu-usuario/nombre-del-repo-django">
@@ -62,13 +62,17 @@ He cultivado un perfil híbrido: disfruto tanto sumergirme en la extracción y l
 ### 📫 ¿Conectamos?
 
 <div align="center">
-  <a href="mailto:tu-correo@ejemplo.com">
+  <a href="mailto:luiscruz.data@gmail.com">
     <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://linkedin.com/in/luiscruzmanzano">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://tu-portafolio.github.io">
     <img src="https://img.shields.io/badge/Portafolio-252F3F?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portafolio" />
   </a>
 </div>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=LuisAngelManzano&color=blue" alt="profile views"/>
+<p/>
