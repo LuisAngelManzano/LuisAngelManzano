@@ -1,7 +1,7 @@
 # 👋 Hola, soy Luis Angel 
 
-<p align="left"
-img src="https://komarev.com/ghpvc/?username=LuisAngelManzano alt="profile views"/>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=LuisAngelManzano alt="profile views"-/>
 <p/>
 
 Soy un desarrollador y analista de datos apasionado por transformar información cruda en decisiones estratégicas y construir las aplicaciones que hacen esto posible. 
