@@ -50,7 +50,7 @@ He cultivado un perfil híbrido: disfruto tanto sumergirme en la extracción y l
 
 <div align="center">
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAngelManzano&Proyecto-sano-fresco-An-lisis-Comercial-y-Market-Basket-Analysis &theme=transparent&hide_border=false&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400" alt="Proyecto de Datos" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAngelManzano&Proyecto-sano-fresco-An-lisis-Comercial-y-Market-Basket-Analysis&theme=transparent&hide_border=false&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400" alt="Proyecto de Datos" />
   </a>
   <a href="https://github.com/LuisAngelManzano/PIA-PROYECTOS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAngelManzano&repo=PIA-PROYECTOS&theme=transparent&hide_border=false&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400" alt="Proyecto Django" />
