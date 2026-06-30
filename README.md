@@ -85,51 +85,100 @@ Además del análisis, desarrollo aplicaciones utilizando **C#, .NET y Angular**
 
 # 📌 Proyectos Destacados
 
-## 📊 Market Basket Analysis
+---
 
->Análisis comercial utilizando Python, SQL y reglas de asociación para descubrir patrones de compra.
+# 📊 Market Basket Analysis
 
-<div align="center">
+### Descubrimiento de patrones de compra mediante análisis de datos
 
-<a href="https://github.com/LuisAngelManzano/Proyecto-sano-fresco-An-lisis-Comercial-y-Market-Basket-Analysis">
+**Descripción**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAngelManzano&repo=Proyecto-sano-fresco-An-lisis-Comercial-y-Market-Basket-Analysis&theme=github_dark&hide_border=true"/>
+Proyecto de análisis comercial desarrollado con Python y SQL para identificar productos que suelen comprarse en conjunto utilizando la técnica de **Market Basket Analysis** y reglas de asociación.
 
-</a>
+### Tecnologías utilizadas
 
-</div>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
+
+### Habilidades demostradas
+
+- ETL y limpieza de datos
+- Transformación con Pandas
+- Reglas de asociación
+- Confidence, Lift y Support
+- Visualización de resultados
+
+🔗 **Repositorio**
+
+https://github.com/LuisAngelManzano/Proyecto-sano-fresco-An-lisis-Comercial-y-Market-Basket-Analysis
 
 ---
 
-## 🚗 AutoXpert
+# 🚗 AutoXpert
 
->Dashboard ejecutivo desarrollado en Power BI para el análisis del desempeño de una agencia automotriz.
+### Dashboard Ejecutivo para una Agencia Automotriz
 
-<div align="center">
+**Descripción**
 
-<a href="https://github.com/LuisAngelManzano/AutoXpert">
+Proyecto de Business Intelligence orientado al análisis del desempeño comercial de una agencia automotriz ficticia mediante dashboards interactivos en Power BI.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAngelManzano&repo=AutoXpert&theme=github_dark&hide_border=true"/>
+### Tecnologías utilizadas
 
-</a>
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-FFB000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+</p>
 
-</div>
+### Habilidades demostradas
+
+- KPIs
+- Storytelling con datos
+- DAX
+- Power Query
+- Modelado dimensional
+- Dashboard ejecutivo
+
+🔗 **Repositorio**
+
+https://github.com/LuisAngelManzano/AutoXpert
 
 ---
 
-## 💻 Sistema de Gestión
+# 💻 Sistema de Gestión
 
->Proyecto Full Stack desarrollado con C#, SQL Server y Angular.
+### Desarrollo Full Stack para la administración de información
 
-<div align="center">
+**Descripción**
 
-<a href="https://github.com/LuisAngelManzano/PIA-PROYECTOS">
+Aplicación desarrollada como proyecto universitario utilizando arquitectura por capas para la gestión de usuarios y procesos administrativos.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LuisAngelManzano&repo=PIA-PROYECTOS&theme=github_dark&hide_border=true"/>
+### Tecnologías utilizadas
 
-</a>
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+</p>
 
-</div>
+### Habilidades demostradas
+
+- Arquitectura por capas
+- CRUD
+- API REST
+- SQL Server
+- Angular
+- C#
+
+🔗 **Repositorio**
+
+https://github.com/LuisAngelManzano/PIA-PROYECTOS
 
 ---
 
@@ -188,5 +237,15 @@ Licenciatura en Tecnologías de la Información
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=LuisAngelManzano&style=for-the-badge&color=58A6FF)
+---
+
+# 🎯 Más allá del Análisis y código me gusta despejar la mente es: 
+
+- 📚 Leer literatura de ciencia ficción, fantasía y tecnología.
+- 🎸 Escuchar rock mientras estudio o desarrollo proyectos.
+- 🧩 Acertijos y lógica
+- 🟥 Cubos Rubik
+- 💪 Calistenia 
+- 🛼 Patinaje
 
 </div>
