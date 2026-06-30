@@ -129,10 +129,10 @@ Proyecto de Business Intelligence orientado al análisis del desempeño comercia
 ### Tecnologías utilizadas
 
 <p>
+<img src="https://shields.io/badge/Excel-217346?style=flat-square""/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/DAX-FFB000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Power_Query-217346?style=flat-square"/>
-<img src="https://shields.io"/>
 </p>
 
 ### Habilidades demostradas
