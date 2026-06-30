@@ -111,19 +111,12 @@ Proyecto de análisis comercial desarrollado con Python y SQL para identificar p
 - Reglas de asociación
 - Confidence, Lift y Support
 - Visualización de resultados
-
-🔗 **Repositorio**
-
-https://github.com/LuisAngelManzano/Proyecto-sano-fresco-An-lisis-Comercial-y-Market-Basket-Analysis
 <p>
-
-<a href="https://github.com/LuisAngelManzano/AutoXpert">
-
+<a href="https://github.com/LuisAngelManzano/Proyecto-sano-fresco-An-lisis-Comercial-y-Market-Basket-Analysis">
 <img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github"/>
-
 </a>
-
 </p>
+
 ---
 
 # 🚗 AutoXpert
@@ -151,59 +144,64 @@ Proyecto de Business Intelligence orientado al análisis del desempeño comercia
 - Power Query
 - Modelado dimensional
 - Dashboard ejecutivo
-
-🔗 **Repositorio**
-
-https://github.com/LuisAngelManzano/AutoXpert
+<p>
+<a href="https://github.com/LuisAngelManzano/AutoXpert">
+<img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
 # 💻 Sistema de Gestión
 
-### Desarrollo Full Stack para la administración de información
+### Desarrollo Web para la administración de información
 
 **Descripción**
 
-Aplicación desarrollada como proyecto universitario utilizando arquitectura por capas para la gestión de usuarios y procesos administrativos.
+Aplicación web desarrollada como proyecto universitario utilizando el framework **Django** para la gestión de usuarios, productos y procesos administrativos. El proyecto implementa operaciones CRUD, autenticación de usuarios y persistencia de datos mediante una base de datos relacional, siguiendo buenas prácticas de organización y desarrollo web.
 
 ### Tecnologías utilizadas
 
 <p>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
 ### Habilidades demostradas
 
-- Arquitectura por capas
-- CRUD
-- API REST
-- SQL Server
-- Angular
-- C#
+- Desarrollo web con Django
+- Arquitectura MVC (MVT en Django)
+- Operaciones CRUD
+- Modelado de bases de datos relacionales
+- Gestión de usuarios y autenticación
+- Integración entre frontend y backend
 
-🔗 **Repositorio**
-
-https://github.com/LuisAngelManzano/PIA-PROYECTOS
-
+<p>
+<a href="https://github.com/LuisAngelManzano/PIA-PROYECTOS">
+<img src="https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 ---
 
 # 📚 Actualmente aprendiendo
 
 ```text
-██████████████████████░░░░░░░░  SQL Avanzado
+██████████████████████░░░░░░░░ SQL Intermedio
 
-████████████████████░░░░░░░░░░  Python para Ciencia de Datos
+████████████████████░░░░░░░░░░ Python para Ciencia de Datos
 
-██████████████████░░░░░░░░░░░░  Machine Learning
+██████████████████░░░░░░░░░░░░ Machine Learning
 
-█████████████████░░░░░░░░░░░░░ Microsoft Fabric
+█████████░░░░░░░░░░░░░░░░░░░░░ Microsoft Fabric
 
-█████████████████████░░░░░░░░░ Power BI Avanzado
+█████████████████████░░░░░░░░░ Power BI Intermedio
 
-██████████████████░░░░░░░░░░░░ Azure
+██████████████████████░░░░░░░░ Excel Intermedio
+
+██████████░░░░░░░░░░░░░░░░░░░░ Azure
 ```
 
 ---
